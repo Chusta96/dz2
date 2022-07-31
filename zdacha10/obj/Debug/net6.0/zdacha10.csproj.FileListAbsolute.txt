@@ -1,0 +1,15 @@
+C:\123123\zadacha10\zdacha10\bin\Debug\net6.0\zdacha10.exe
+C:\123123\zadacha10\zdacha10\bin\Debug\net6.0\zdacha10.deps.json
+C:\123123\zadacha10\zdacha10\bin\Debug\net6.0\zdacha10.runtimeconfig.json
+C:\123123\zadacha10\zdacha10\bin\Debug\net6.0\zdacha10.dll
+C:\123123\zadacha10\zdacha10\bin\Debug\net6.0\zdacha10.pdb
+C:\123123\zadacha10\zdacha10\obj\Debug\net6.0\zdacha10.csproj.AssemblyReference.cache
+C:\123123\zadacha10\zdacha10\obj\Debug\net6.0\zdacha10.GeneratedMSBuildEditorConfig.editorconfig
+C:\123123\zadacha10\zdacha10\obj\Debug\net6.0\zdacha10.AssemblyInfoInputs.cache
+C:\123123\zadacha10\zdacha10\obj\Debug\net6.0\zdacha10.AssemblyInfo.cs
+C:\123123\zadacha10\zdacha10\obj\Debug\net6.0\zdacha10.csproj.CoreCompileInputs.cache
+C:\123123\zadacha10\zdacha10\obj\Debug\net6.0\zdacha10.dll
+C:\123123\zadacha10\zdacha10\obj\Debug\net6.0\refint\zdacha10.dll
+C:\123123\zadacha10\zdacha10\obj\Debug\net6.0\zdacha10.pdb
+C:\123123\zadacha10\zdacha10\obj\Debug\net6.0\zdacha10.genruntimeconfig.cache
+C:\123123\zadacha10\zdacha10\obj\Debug\net6.0\ref\zdacha10.dll
